@@ -1,0 +1,4 @@
+!asset/
+asset/*
+
+!asset/*.pkgmeta
